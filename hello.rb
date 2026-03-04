@@ -1,9 +1,3 @@
-# puts "Enter gender: "
-# greeting = gets.chomp()
-# puts "Enter wight: "
-# age = gets.chomp()
-# puts ("Welcome & Greetings " + greeting.capitalize + ", you are " + age)
-
 ismale = true
 istall = false
 
